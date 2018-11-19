@@ -1,1 +1,9 @@
-<h1>This is Header</h1>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <?php wp_head(); ?>
+  </head>
+  <body>
+
+  </body>
+</html>
