@@ -1,1 +1,1 @@
-# fictional-univercity-theme
+# fictional-university-theme
